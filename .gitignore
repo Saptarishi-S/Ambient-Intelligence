@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+backend/.env
+
+backend/data/
+frontend/.next/
+frontend/node_modules/
+Ambient/YOLO_Model.pt
+Ambient/YOLO_Model.pt
+Ambient/YOLO_Model.pt

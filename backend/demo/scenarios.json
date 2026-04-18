@@ -1,0 +1,75 @@
+[
+  {
+    "id": "breakfast_boost",
+    "name": "Breakfast Boost",
+    "description": "Quick breakfast-friendly inventory for omelettes and parfaits.",
+    "profile": {
+      "name": "Demo User",
+      "dietary_preference": "vegetarian",
+      "allergens": [],
+      "health_goal": "maintenance",
+      "calorie_target": 2100,
+      "preference_tags": ["quick", "breakfast", "high_protein"]
+    },
+    "calories": {
+      "consumed": 620,
+      "burned": 180
+    },
+    "inventory": [
+      {"name": "egg", "quantity": 4, "unit": "item", "category": "protein"},
+      {"name": "spinach", "quantity": 1, "unit": "cup", "category": "produce"},
+      {"name": "cheese", "quantity": 0.5, "unit": "cup", "category": "dairy"},
+      {"name": "greek yogurt", "quantity": 1, "unit": "cup", "category": "dairy"},
+      {"name": "berries", "quantity": 1, "unit": "cup", "category": "produce"},
+      {"name": "oats", "quantity": 0.5, "unit": "cup", "category": "grains"}
+    ]
+  },
+  {
+    "id": "veggie_reset",
+    "name": "Veggie Reset",
+    "description": "Balanced vegetarian lunch setup with minimal missing items.",
+    "profile": {
+      "name": "Demo User",
+      "dietary_preference": "vegetarian",
+      "allergens": [],
+      "health_goal": "weight_loss",
+      "calorie_target": 1800,
+      "preference_tags": ["balanced", "meal_prep", "high_fiber"]
+    },
+    "calories": {
+      "consumed": 980,
+      "burned": 460
+    },
+    "inventory": [
+      {"name": "chickpeas", "quantity": 1, "unit": "cup", "category": "canned"},
+      {"name": "rice", "quantity": 1, "unit": "cup", "category": "grains"},
+      {"name": "cucumber", "quantity": 1, "unit": "item", "category": "produce"},
+      {"name": "tomato", "quantity": 2, "unit": "item", "category": "produce"},
+      {"name": "broccoli", "quantity": 1, "unit": "cup", "category": "produce"}
+    ]
+  },
+  {
+    "id": "protein_recovery",
+    "name": "Protein Recovery",
+    "description": "High-protein setup aimed at muscle gain recommendations.",
+    "profile": {
+      "name": "Demo User",
+      "dietary_preference": "omnivore",
+      "allergens": [],
+      "health_goal": "muscle_gain",
+      "calorie_target": 2500,
+      "preference_tags": ["high_protein", "lunch", "balanced"]
+    },
+    "calories": {
+      "consumed": 1400,
+      "burned": 720
+    },
+    "inventory": [
+      {"name": "chicken breast", "quantity": 200, "unit": "g", "category": "protein"},
+      {"name": "rice", "quantity": 1, "unit": "cup", "category": "grains"},
+      {"name": "broccoli", "quantity": 1, "unit": "cup", "category": "produce"},
+      {"name": "egg", "quantity": 4, "unit": "item", "category": "protein"},
+      {"name": "greek yogurt", "quantity": 1, "unit": "cup", "category": "dairy"}
+    ]
+  }
+]

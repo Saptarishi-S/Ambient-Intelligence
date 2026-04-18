@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320">
+  <rect width="480" height="320" rx="28" fill="#fff2eb" />
+  <rect x="72" y="36" width="336" height="248" rx="24" fill="#f4d9cb" stroke="#bf7a5d" stroke-width="8" />
+  <line x1="96" y1="132" x2="384" y2="132" stroke="#bf7a5d" stroke-width="8" />
+  <line x1="96" y1="210" x2="384" y2="210" stroke="#bf7a5d" stroke-width="8" />
+  <rect x="118" y="72" width="114" height="44" rx="14" fill="#d98c67" />
+  <rect x="262" y="72" width="82" height="44" rx="14" fill="#efd4b4" />
+  <rect x="120" y="152" width="80" height="42" rx="14" fill="#8cc06f" />
+  <rect x="234" y="152" width="112" height="42" rx="14" fill="#d98c67" />
+  <text x="240" y="302" text-anchor="middle" font-family="Verdana, sans-serif" font-size="24" fill="#8a4e35">Protein demo fridge</text>
+</svg>
