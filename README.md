@@ -14,6 +14,8 @@ Phase 1 through Phase 5 foundation for the Smart Meal Planner project.
 - Demo scenario endpoints and local reset/load scripts for repeatable walkthroughs
 - Standard-library tests for the seed/bootstrap layer
 
+Model Download Link :- https://drive.google.com/drive/folders/1bb0wvIGR9kQDYDE1t8WDm2s8w7s7pYku?usp=sharing
+
 ## Project structure
 
 ```text
